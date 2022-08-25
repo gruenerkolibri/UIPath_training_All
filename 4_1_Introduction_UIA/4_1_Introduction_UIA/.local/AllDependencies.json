@@ -8421,9 +8421,9 @@
     "restore": {
       "projectUniqueName": "BlankProcess",
       "projectName": "BlankProcess",
-      "projectPath": "D:\\Freelancing\\fortlaufend\\UIPath\\4_1_Introduction_UIA\\BlankProcess\\.local",
+      "projectPath": "D:\\Freelancing\\fortlaufend\\UIPath\\UIPath_training_All\\4_1_Introduction_UIA\\4_1_Introduction_UIA\\.local",
       "packagesPath": "C:\\Users\\rapha\\.nuget\\packages\\",
-      "outputPath": "D:\\Freelancing\\fortlaufend\\UIPath\\4_1_Introduction_UIA\\BlankProcess\\.local",
+      "outputPath": "D:\\Freelancing\\fortlaufend\\UIPath\\UIPath_training_All\\4_1_Introduction_UIA\\4_1_Introduction_UIA\\.local",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ]

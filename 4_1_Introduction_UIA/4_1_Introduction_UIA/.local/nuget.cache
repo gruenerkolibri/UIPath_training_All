@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pKAT5u3aZ3G0hzx7K1Tl8HWB6ictFb59UkK0FwqPv4qxo906gmkiYUrtRPTgdfWF4oJIsSQyXLulH6i3orECtw==",
+  "dgSpecHash": "yRWrzgKQZY8RW2iC9moQ97GELys3gZe1t3lNrDbIOi7nvDUdKa2Nz1x3EhVryUGtbYF8/jdfblGFoOISHkZW7A==",
   "success": true,
-  "projectFilePath": "D:\\Freelancing\\fortlaufend\\UIPath\\4_1_Introduction_UIA\\BlankProcess\\.local\\",
+  "projectFilePath": "D:\\Freelancing\\fortlaufend\\UIPath\\UIPath_training_All\\4_1_Introduction_UIA\\4_1_Introduction_UIA\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\rapha\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\rapha\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
