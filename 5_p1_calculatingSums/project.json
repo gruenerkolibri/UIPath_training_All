@@ -1,5 +1,5 @@
 {
-  "name": "5_common_datatableActivities",
+  "name": "5_p1_calculatingSums",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "485c2f72-b9fb-4df9-b443-e7d95a8a134d",
+      "uniqueId": "85a9ab87-3637-4679-9f91-eef6759da1e3",
       "input": [],
       "output": []
     }
