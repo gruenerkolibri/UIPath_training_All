@@ -150,7 +150,7 @@
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <If Condition="[clientRow(0).ToString().Equals(invoiceRow(0).ToString()) and clientRow(2).Equals(&quot;TRUE&quot;)]" sap:VirtualizedContainerService.HintSize="484,470" sap2010:WorkflowViewState.IdRef="If_1">
+                    <If Condition="[clientRow(1).ToString().Equals(invoiceRow(1).ToString()) and clientRow(2).Equals(&quot;TRUE&quot;)]" sap:VirtualizedContainerService.HintSize="484,470" sap2010:WorkflowViewState.IdRef="If_1">
                       <If.Then>
                         <Sequence sap:VirtualizedContainerService.HintSize="376,283" sap2010:WorkflowViewState.IdRef="Sequence_6">
                           <sap:WorkflowViewStateService.ViewState>
